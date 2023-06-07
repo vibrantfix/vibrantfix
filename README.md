@@ -34,8 +34,13 @@
 <div align="center">
 <a href="https://github.com/vibrantfix/vibrantfix/issues/2#issuecomment-new"><img src="./assets/icons/guestbook.svg"></a> 
 </div>  
-        <!-- Guestbook -->
-        <!-- /Guestbook -->
+
+<!-- Guestbook -->
+
+<!-- /Guestbook -->
+
+<br>
+
 <details open>
 <summary><h2>🛠️ My Favorite Tools</h2></summary>
 

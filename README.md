@@ -18,6 +18,10 @@
 - 💬 If you have any questions, **just ask me**.
 - btw I use Arch [<img src="./assets/icons/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo" />](https://archlinux.org/)
 
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://vibrantfix.github.io/)](https://vibrantfix.github.io/)
+![Waka Readme](https://github.com/vibrantfix/vibrantfix/workflows/Waka%20Readme/badge.svg)
+![HitCount](https://hits.dwyl.com/vibrantfix/vibrantfix.svg?style=flat-square)
+
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="./assets/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
@@ -26,13 +30,12 @@
 <a href="https://telegram.com/" target="blank"><img align="center" src="./assets/icons/telegram.svg" alt="telegram" height="30" width="30" /></a>
 <a href="https://yogeshx.vercel.app/" target="blank"><img align="center" src="./assets/gif/globe.gif" alt="website" height="30" width="30" /></a>
 </p>
-<br>
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://vibrantfix.github.io/)](https://vibrantfix.github.io/)
-![Waka Readme](https://github.com/vibrantfix/vibrantfix/workflows/Waka%20Readme/badge.svg)
-![HitCount](https://hits.dwyl.com/vibrantfix/vibrantfix.svg?style=flat-square)
-
-        
+<div align="center">
+<a href="https://github.com/vibrantfix/vibrantfix/issues/2#issuecomment-new"><img src="./assets/icons/guestbook.svg"></a> 
+</div>  
+        <!-- Guestbook -->
+        <!-- /Guestbook -->
 <details open>
 <summary><h2>🛠️ My Favorite Tools</h2></summary>
 

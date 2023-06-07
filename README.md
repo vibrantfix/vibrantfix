@@ -38,9 +38,7 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-| <a href="https://github.com/vibrantfix"><img width="24" src="https://avatars.githubusercontent.com/u/92950980?s=24&u=0bdb287fbe9c06f933ab43b2a1539a6049fbcc32&v=4" alt="vibrantfix" /> vibrantfix</a> |6/7/2023, 6:54:50 PM|Does this guestbook work now??!|
-| <a href="https://github.com/vibrantfix"><img width="24" src="https://avatars.githubusercontent.com/u/92950980?s=24&u=0bdb287fbe9c06f933ab43b2a1539a6049fbcc32&v=4" alt="vibrantfix" /> vibrantfix</a> |6/7/2023, 6:51:59 PM|Does this guestbook work now??|
-| <a href="https://github.com/vibrantfix"><img width="24" src="https://avatars.githubusercontent.com/u/92950980?s=24&u=0bdb287fbe9c06f933ab43b2a1539a6049fbcc32&v=4" alt="vibrantfix" /> vibrantfix</a> |6/7/2023, 6:43:55 PM|Does this guestbook work now?|
+| <a href="https://github.com/vibrantfix"><img width="24" src="https://avatars.githubusercontent.com/u/92950980?s=24&u=0bdb287fbe9c06f933ab43b2a1539a6049fbcc32&v=4" alt="vibrantfix" /> vibrantfix</a> |6/7/2023, 6:26:33 PM|Does this guestbook work?|
 <!-- /Guestbook -->
 
 <br>

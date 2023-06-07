@@ -32,7 +32,7 @@
 </p>
 
 <div align="center">
-<a href="https://github.com/vibrantfix/vibrantfix/issues/2#issuecomment-new"><img src="./assets/icons/guestbook.svg"></a> 
+<a href="https://github.com/vibrantfix/vibrantfix/issues/1#issuecomment-new"><img src="./assets/icons/guestbook.svg"></a> 
 </div>  
 
 <!-- Guestbook -->
